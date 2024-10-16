@@ -1,12 +1,11 @@
 # We ♥ Linux
 
-<img src="./emmalinux-logo.svg" width="250" height="250" />
+<img src="./emmalinux-logo.svg" width="150" height="150" />
 
 EmmaLinux is a AlmaLinux fork with EPEL integration and support KDE and GNOME desktop environments.
 
-| ![EmmaLinux logo](./emmalinux-logo.svg) | ![Kiku](docs/snapshot/sub.jpeg) |
-| --------------------------------------- | --------------------------------------- |
-| [KDE logo](./kde-logo.svg)              | ![GNOME logo](./gnome-logo.svg) | 
+| <img src="./kde-logo.svg" width="75" height="75" />   | <img src="./gnome-logo.svg" width="75" height="75" /> |
+| ------------------------------------------------------| ----------------------------------------------------- | 
 
 
 <!--
